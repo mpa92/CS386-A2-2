@@ -25,4 +25,4 @@ lists, graphs, etc.
 
 **Role:** Reflector 
 
-*About:* I am a Junior pursuing a Bachelors degree in Computer Science. I have a relative expertise in the following languages, C, python, JavaScript. I have an interest in web design and developing video games.
+*About:* I am a Junior pursuing a Bachelors degree in Computer Science. I have a relative expertise in the following languages, C, python, JavaScript. My main interests as of right now includes learning more on video game development as wel as web design.
