@@ -19,7 +19,7 @@ lists, graphs, etc.
 
 **Role:** Recorder
 
-*About:* 6 year career in IT as help desk to Systems Administrator. Currently pursuing Applied Computer Science degree. Worked on enterprise level projects including incorporating AI to workflows of departments to increase efficiency and reduce overhead
+*About:* 6 year career in IT as help desk to Systems Administrator. Currently pursuing Applied Computer Science degree. Worked on enterprise level projects including incorporating AI to workflows of departments to increase efficiency and reduce overhead. I also like to play games, exercise and play guitar. I am an avid learner and strive to learn new skills that I find interesting.
 
 ## Rique Yazzie
 
