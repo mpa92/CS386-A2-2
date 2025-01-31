@@ -4,20 +4,6 @@
 
 **Role:** Manager
 
-*About:* I am pursing a Bachelor's in Applied Computer Science as a junior. I have a solid understanding in programming languages including C, Java, and Python. I have an interest in software development and problem-solving through the use of code.
-
-## Mark Johnson
-
-*About:* Junior Year at NAU seeking BA in Software Engineering, experienced in C, C++, Java, HTML, and Python. Highest class taken was CS249 Data Structures.
-         Projects developed, personal website, text-based adventure game, several data structures involving trees, linked-lists, graphs, etc.
-
-**Role:** Presenter
-
-*About:*  Junior Year at NAU seeking BA in Software Engineering, experienced in C, C++, Java,
-HTML, and Python. Highest class taken was CS249 Data Structures. Projects developed,
-personal website, text-based adventure game, several data structures involving trees, linked-
-lists, graphs, etc.
-
 ## Chris Son
 
 **Role:** Recorder
