@@ -13,11 +13,6 @@
 
 **Role:** Presenter
 
-*About:*  Junior Year at NAU seeking BA in Software Engineering, experienced in C, C++, Java,
-HTML, and Python. Highest class taken was CS249 Data Structures. Projects developed,
-personal website, text-based adventure game, several data structures involving trees, linked-
-lists, graphs, etc.
-
 ## Chris Son
 
 **Role:** Recorder
